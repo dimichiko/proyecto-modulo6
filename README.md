@@ -56,6 +56,8 @@ npm install     # Instalar dependencias
 npm start       # Iniciar servidor en modo producción
 npm run dev     # Iniciar servidor en modo desarrollo con nodemon
 
+```
+
 📌 Autor
 
 Desarrollado como parte del Bootcamp Fullstack – Módulo 6 (UDD).

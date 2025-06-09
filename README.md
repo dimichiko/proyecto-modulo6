@@ -43,9 +43,9 @@ Este proyecto es una API REST construida con Node.js, Express y MongoDB. Impleme
 
 Crea un archivo `.env` con las siguientes variables:
 
-MONGO_URI=mongodb+srv://:@cluster.mongodb.net/dbname
-JWT_SECRET=tu_secreto
-PORT=5050
+- MONGO_URI=mongodb+srv://:@cluster.mongodb.net/dbname
+- JWT_SECRET=tu_secreto
+- PORT=5050
 
 ---
 

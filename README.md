@@ -4,21 +4,6 @@ Este proyecto es una API REST construida con Node.js, Express y MongoDB. Impleme
 
 ---
 
-## 📁 Estructura del proyecto
-
-backend/
-├── controllers/        # Lógica de negocio (usuarios, productos)
-├── middleware/         # Middlewares (autenticación, validación, etc.)
-├── models/             # Modelos de Mongoose (User, Product)
-├── routes/             # Rutas API
-├── validators/         # Validaciones (opcional)
-├── .env                # Variables de entorno (IGNORADO en git)
-├── .gitignore
-├── package.json
-├── server.js           # Punto de entrada
-
----
-
 ## 🚀 Funcionalidades
 
 - Registro e inicio de sesión de usuarios con JWT
